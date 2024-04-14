@@ -371,7 +371,7 @@ namespace Aether {
             /**
              * @brief Set element as activated
              */
-            virtual void setActive();
+            void setActive();
 
             /**
              * @brief Set element as in-activated
